@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+ 
+  
+}
+
+.fb {
+
+  height: 500px;
+  width: 400px;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+
+  margin: 20px auto; 
+  padding: 20px;
+  border-style: groove;
+ margin-top: 50px;
+  border-radius:30px;
+}
+
+form label {
+  display: block;
+  margin-top: 10px;
+}
+
+form input {
+  width: 100%;
+  padding: 5px;
+  margin-top: 5px;
+  border-radius: 10px;
+}
+
+form button {
+  margin-top: 15px;
+  padding: 8px;
+  width: 60%;
+  
+  border: none;
+}
+h1{
+    color:bisque;
+}
